@@ -2,7 +2,7 @@
 - Siddaganga Institute of Technology
 - CSE
 - 📫 How to reach me .Linkedin http://linkedin.com/in/sampath-h-s-571122214
--                     HackerEarth https://www.hackerearth.com/@SampathHS2000
+-   https://www.hackerearth.com/@SampathHS2000
 
 <!---
 SampathHS/SampathHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
